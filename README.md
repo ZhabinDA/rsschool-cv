@@ -1,2 +1,1 @@
-# rsschool-cv
-JavaScript/Front-end 2020 Q3
+ https://ZhabinDA.github.io/rsschool-cv/cv
