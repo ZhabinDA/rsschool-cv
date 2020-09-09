@@ -1,23 +1,68 @@
 # Contact Info
 **Zhabin Dmirii Aleksandrovich**
-Contact |            |    
- ------------ | ------------
- E-mail  | zhabin91@gmail.com 
- Skype   | zhabin_dmitriy     
+
+<table>
+   <tr>
+    <th>Contact</th>
+    <th></th>
+   </tr>
+  <tr>
+    <td>E-mail</td>
+    <td>zhabin91@gmail.com</td>
+  </tr>
+    <tr>
+    <td>Skype</td>
+    <td>zhabin_dmitriy </td>
+  </tr>
+</table>
 
 # Experience
-Date|Position|Company|Discription
-  --- | --- | --- | --- 
- 2019 - until now |.Net Developer|ТомскАСУпроект|Development\support for desktop applications, plugins for CAD systems. <br><br>.Net Framework, WPF, MSTest, WixC#, PostgreSQL, Visual Studio, Git, Teamсity (CI), GitLab, Redmine, API Revit, API AutoCAD, API NanoCAD
-2018 - 2019 |Junior .Net Developer|ТомскАСУпроект|Extends plug-in for GIS MapInfo. The plugin is a client-server application.<br>The job was to support the client side. Assessment of tasks, implementation of new functionality, bug fixes. <br><br>.Net Framework, WPF, DevExpress, MSTest, Inno Setup, MapBasic, Microsoft SQL Server, Visual Studio, Git, Teamсity (CI), GitLab, Redmine
-2014 - 2018 |Junior Researcher|Tomsk State University of Control Systems and Radioelectronics|Development of software products for automating the design of microwave devices. <br><br>.Net Framework, WinForm, DevExpress, NUnit, API Microwave Office, Visual Studio, SVN, Redmine
+
+<table>
+   <tr>
+    <th>Date</th>
+    <th>Position</th>
+    <th>Company</th>
+    <th>Discription</th>
+   </tr>
+  <tr>
+    <td>2019 - until now</td>
+    <td>.Net Developer</td>
+    <td>ТомскАСУпроект</td>
+    <td>Development\support for desktop applications, plugins for CAD systems. <br><br>.Net Framework, WPF, MSTest, WixC#, PostgreSQL, Visual Studio, Git, Teamсity (CI), GitLab, Redmine, API Revit, API AutoCAD, API NanoCAD</td>
+  </tr>
+    <td>2018 - 2019</td>
+    <td>Junior .Net Developer</td>
+    <td>ТомскАСУпроект</td>
+    <td>Extends plug-in for GIS MapInfo. The plugin is a client-server application.<br>The job was to support the client side. Assessment of tasks, implementation of new functionality, bug fixes. <br><br>.Net Framework, WPF, DevExpress, MSTest, Inno Setup, MapBasic, Microsoft SQL Server, Visual Studio, Git, Teamсity (CI), GitLab, Redmine</td>
+  </tr>
+  <tr>
+    <td>2014 - 2018</td>
+    <td>Junior Researcher</td>
+    <td>Tomsk State University of Control Systems and Radioelectronics</td>
+    <td>Development of software products for automating the design of microwave devices. <br><br>.Net Framework, WinForm, DevExpress, NUnit, API Microwave Office, Visual Studio, SVN, Redmine</td>
+  </tr>
+</table>
 
 # Education
 **Tomsk State University of Control Systems and Radioelectronics**
-Year|Degree|Direction
-  --- | --- | --- 
- 2018|PhD|Antennas, microwave devices and their technologies
- 2014|Engineer|Computer-aided design systems
+
+<table>
+   <tr>
+    <th>Year</th>
+    <th>Degree</th>
+    <th>Direction</th>
+   </tr>
+  <tr>
+    <td>2018</td>
+    <td>PhD</td>
+    <td>Antennas, microwave devices and their technologies</td>
+  </tr>
+    <td>2014</td>
+    <td>Engineer</td>
+    <td>Computer-aided design systems</td>
+  </tr>
+</table>
 
 # About me
 
