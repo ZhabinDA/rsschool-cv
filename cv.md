@@ -83,4 +83,4 @@ In the list:
 * Winning the UMNIK-16 competition.
 
 ## Hobbies:
-playing sports, including volleyball
+Playing sports, including volleyball
